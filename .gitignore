@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore package-lock as it complicates merging
+package-lock.json
+
+# general/misc. 
+todos.md
+
+# VSCode 
+.vscode
+
+# DIST 
+dist/
